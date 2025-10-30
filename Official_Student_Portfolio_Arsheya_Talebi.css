@@ -1,0 +1,38 @@
+header {
+	background: lightblue;
+	text-align: center;
+	padding: 20px;
+	font-size: 3rem;
+}
+
+
+.btn {
+	border-radius: 50px;
+	padding: 10px 20px;
+	margin: 5px;
+	background: #ddd;
+	border: none;
+	cursor: pointer;
+}
+
+
+
+.btn:hover {
+	background: lightblue;
+}
+
+
+.subscribe {
+	border-radius: 20px;
+	background: orange;
+	color: white;
+	padding: 10px 20px;
+	border: none;
+}
+
+nav { 
+	display: flex;
+	justify-content: center;
+	gap: 15px;
+	margin-top: 20px;
+}
